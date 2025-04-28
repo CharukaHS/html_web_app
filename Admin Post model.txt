@@ -1,0 +1,7 @@
+<div class="trade-card">
+  <div class="trade-pair">EURUSD</div>
+  <div class="trade-action">BUY</div>
+  <div class="target-price">Target Price: *****</div>
+  <div class="target-hit">Profit Target Hit</div>
+  <div class="trade-profit">Profit: $5</div>
+</div>
